@@ -18,7 +18,7 @@
 - Docker
 
 ## 📫 Como me encontrar
-- LinkedIn: [João Guilherme Faria]([https://www.linkedin.com/in/joão-guilherme-faria-dev/])
+- LinkedIn:https://www.linkedin.com/in/joão-guilherme-faria-dev/
 
 <!---
 PiriCrespin/PiriCrespin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
