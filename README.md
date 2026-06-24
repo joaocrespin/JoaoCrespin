@@ -12,7 +12,7 @@
 │                                                                     │
 │  $ cat stack.conf                                                   │
 │                                                                     │
-│  [languages]           Python · C# · C · Java · JavaScript          │
+│  [languages]           Python · C# · C · Java                       │
 │  [backend]             FastAPI · Flask · .NET                       │
 │  [orm & migrations]    SQLAlchemy · Alembic                         │
 │  [databases]           PostgreSQL · Oracle SQL · SQLite             │
